@@ -1,8 +1,8 @@
-version: 1.0.28
+version: 1.0.29
 files:
-  - url: AeroKiosk-Setup-1.0.28.exe
-    sha512: xMWHBl1cwAOL/0PtB5HArcsWdNz6FX3wrwTFX6nww/IwUfi1tqKQPf4c7ERTsTAz4wIwLLTONww2DUVYdbKxLA==
-    size: 89107831
-path: AeroKiosk-Setup-1.0.28.exe
-sha512: xMWHBl1cwAOL/0PtB5HArcsWdNz6FX3wrwTFX6nww/IwUfi1tqKQPf4c7ERTsTAz4wIwLLTONww2DUVYdbKxLA==
-releaseDate: '2026-03-14T15:53:23.493Z'
+  - url: AeroKiosk-Setup-1.0.29.exe
+    sha512: jZkH3MG6ngHabVfniWjSTYUsL4md/qOfYecjRwEvPb8gORlwgOgGIyo9NjyjiSlJ65SoJz2R8sY+f2FEWRkJ3Q==
+    size: 89108720
+path: AeroKiosk-Setup-1.0.29.exe
+sha512: jZkH3MG6ngHabVfniWjSTYUsL4md/qOfYecjRwEvPb8gORlwgOgGIyo9NjyjiSlJ65SoJz2R8sY+f2FEWRkJ3Q==
+releaseDate: '2026-03-14T16:58:10.241Z'
